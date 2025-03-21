@@ -1,0 +1,13 @@
+[package]
+name = "sysinfofetch"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bytesize = "2.0.1"
+chrono = "0.4.40"
+colored = "3.0.0"
+figlet-rs = "0.1.5"
+local-ip-address = "0.6.3"
+sysinfo = "0.33.1"
+term_size = "0.3.2"
